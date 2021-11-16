@@ -3,7 +3,7 @@
 C64 Game written back in the 1980s. Sold to Virgin Mastertronic
 Never released :-( Rights reverted to me. So here it is
 
-![Title Page](./assets.title-page.png)
+![Title Page](./assets/title-page.png)
 
 Music and Sound Effects by the late and legendary Jason Kelk RIP
 
